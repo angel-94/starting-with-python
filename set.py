@@ -1,5 +1,4 @@
 
-
 colors = {"Red", 'Blue', 'Yellow'}
 print(type(colors))
 
@@ -15,7 +14,3 @@ colors.clear()
 print(colors)
 
 # Cuando usar Set -- Dependiendo el tipo de aplicación que estamos desarrollando
-
-
-
-
